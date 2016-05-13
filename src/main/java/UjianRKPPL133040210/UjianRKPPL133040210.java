@@ -13,5 +13,7 @@ public class UjianRKPPL133040210 {
     
     public int hitung(int nilai1, int nilai2){
         int total = nilai1+nilai2;
+        
+        return total;
     }
 }
